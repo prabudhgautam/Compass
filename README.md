@@ -205,8 +205,4 @@ Compass/
 └── README.md
 ```
 
-## Author
-
-Prabudh Gautam. Robotics software and embedded sensing.
-
 GitHub: [@prabudhgautam](https://github.com/prabudhgautam)
