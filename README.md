@@ -202,6 +202,7 @@ One thing worth watching: if the display is a 128x64 SSD1306, the Adafruit drive
 ```text
 Compass/
 ├── Compass.ino
+├── Images/
 └── README.md
 ```
 
